@@ -244,7 +244,7 @@ async def cb_handler(client: lucifermoringstar_robot, query):
                 caption=CUSTOM_FILE_CAPTION.format(mention=query.from_user.mention, title=title, size=size, caption=files.caption)
 
                 buttons = [[
-                  InlineKeyboardButton('🧑‍💻 How To Own 🧑‍💻', url='https://t.me/Mo_Tech_Group')
+                  InlineKeyboardButton('🧑‍💻 How To Own 🧑‍💻', url='https://t.me/sasi7654/2')
                   ]]                 
                 
                 await query.answer()
